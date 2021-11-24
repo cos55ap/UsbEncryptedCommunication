@@ -84,5 +84,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup />
+  <ItemGroup>
+    <Content Include="Wiki\EncryptedRelayBoard.png" />
+    <Content Include="Wiki\ProgramatorAddatpter.png" />
+    <Content Include="Wiki\ProgramatorAVRISPofTypeUSBASP.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
