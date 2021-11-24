@@ -85,6 +85,8 @@
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
+    <Content Include="Wiki\BlockCipher.png" />
+    <Content Include="Wiki\Commnication.png" />
     <Content Include="Wiki\EncryptedRelayBoard.png" />
     <Content Include="Wiki\ProgramatorAddatpter.png" />
     <Content Include="Wiki\ProgramatorAVRISPofTypeUSBASP.png" />
